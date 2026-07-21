@@ -36,7 +36,7 @@ Mi rol fue el **núcleo de detección**: diseño e implementación completa del 
 - Detección validada end-to-end: PowerShell malicioso · IP de C2 · DNS malicioso · URL maliciosa
 - Stack: `ELK 8.19` · `MISP` · `Fleet` · `Sysmon` · `Tailscale` · `MITRE ATT&CK`
 
-> Repositorio completo: **[nullsec-siem-elk](https://github.com/juanmalbran/nullsec-siem-elk)**
+> Repositorio completo: **[Nullsec-SIEM-ELK](https://github.com/juanmalbran/Nullsec-SIEM-ELK)**
 
 ---
 
@@ -103,26 +103,26 @@ Cada repositorio documenta un módulo con su marco teórico, un diagrama propio 
 
 | Repositorio | Foco |
 |---|---|
-| [nullsec-siem-elk](https://github.com/juanmalbran/nullsec-siem-elk) | Proyecto destacado: SIEM ELK + Threat Intel end-to-end |
-| [blue-team](https://github.com/juanmalbran/blue-team) | SOC, SIEM, reglas de detección y threat hunting |
-| [dfir](https://github.com/juanmalbran/dfir) | Forense digital, Volatility, respuesta a incidentes |
-| [analisis-de-malware](https://github.com/juanmalbran/analisis-de-malware) | Análisis estático y dinámico, YARA, sandbox |
+| [Nullsec-SIEM-ELK](https://github.com/juanmalbran/Nullsec-SIEM-ELK) | Proyecto destacado: SIEM ELK + Threat Intel end-to-end |
+| [Blue-Team](https://github.com/juanmalbran/Blue-Team) | SOC, SIEM, reglas de detección y threat hunting |
+| [DFIR](https://github.com/juanmalbran/DFIR) | Forense digital, Volatility, respuesta a incidentes |
+| [Analisis-de-Malware](https://github.com/juanmalbran/Analisis-de-Malware) | Análisis estático y dinámico, YARA, sandbox |
 
 **Ofensiva · Red Team**
 
 | Repositorio | Foco |
 |---|---|
-| [recopilacion-de-informacion](https://github.com/juanmalbran/recopilacion-de-informacion) | OSINT, footprinting y reconocimiento |
-| [pentesting](https://github.com/juanmalbran/pentesting) | Metodología ofensiva, explotación y reporting |
-| [red-team](https://github.com/juanmalbran/red-team) | Simulación de adversario, C2 y post-explotación |
+| [Recopilacion-de-Informacion](https://github.com/juanmalbran/Recopilacion-de-Informacion) | OSINT, footprinting y reconocimiento |
+| [Pentesting](https://github.com/juanmalbran/Pentesting) | Metodología ofensiva, explotación y reporting |
+| [Red-Team](https://github.com/juanmalbran/Red-Team) | Simulación de adversario, C2 y post-explotación |
 
 **Fundamentos · Especialización**
 
 | Repositorio | Foco |
 |---|---|
-| [criptografia](https://github.com/juanmalbran/criptografia) | Cifrado, hashing, PKI y esteganografía |
-| [ia-y-ciberseguridad](https://github.com/juanmalbran/ia-y-ciberseguridad) | Adversarial ML, seguridad de LLM, MITRE ATLAS |
-| [devsecops](https://github.com/juanmalbran/devsecops) | Shift-left, SAST/DAST, seguridad de contenedores |
+| [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado, hashing, PKI y esteganografía |
+| [IA-y-Ciberseguridad](https://github.com/juanmalbran/IA-y-Ciberseguridad) | Adversarial ML, seguridad de LLM, MITRE ATLAS |
+| [DevSecOps](https://github.com/juanmalbran/DevSecOps) | Shift-left, SAST/DAST, seguridad de contenedores |
 
 ---
 
