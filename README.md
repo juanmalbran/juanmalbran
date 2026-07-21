@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/malbyte-banner.png" alt="M4LBYTE Cybersecurity" width="100%" />
+  <img src="./malbyte-banner.png" alt="M4LBYTE Cybersecurity" width="100%" />
 </div>
 
 <h1 align="center">Juan Malbrán</h1>
