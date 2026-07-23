@@ -24,17 +24,29 @@ Mi recorrido en IT arrancó en el mundo digital: soy **Licenciado en Diseño y A
 
 ---
 
-## Proyecto destacado — Nullsec
+## Proyecto destacado
 
-**Ciclo de detección de amenazas de extremo a extremo con Threat Intelligence.** Un laboratorio donde un IOC cargado manualmente en MISP termina disparando una alerta real en el SIEM tras la ejecución controlada de ransomware.
+<div align="center">
+  <a href="https://github.com/juanmalbran/Nullsec-SIEM-ELK">
+    <img src="https://raw.githubusercontent.com/juanmalbran/Nullsec-SIEM-ELK/main/nullsec-architecture.png" width="760" alt="Arquitectura Nullsec — MISP, ELK Stack y detección de amenazas" />
+  </a>
+</div>
 
-Mi rol fue el **núcleo de detección**: diseño e implementación completa del **SIEM con ELK Stack** (Elasticsearch · Kibana · Logstash), Fleet Server, la integración **ti_misp** para sincronizar IOCs, y **4 reglas de detección KQL** que dispararon ante la ejecución real de **Bad Rabbit**.
+<h3 align="center">Nullsec · SIEM + Threat Intelligence</h3>
 
-- **MTTD estimado: 5-6 minutos** · 484 IOCs sincronizados · 46 eventos Sysmon capturados
-- Detección validada end-to-end: PowerShell malicioso · IP de C2 · DNS malicioso · URL maliciosa
-- Stack: `ELK 8.19` · `MISP` · `Fleet` · `Sysmon` · `Tailscale` · `MITRE ATT&CK`
+<p align="center">
+  Ciclo de <strong>detección de amenazas de extremo a extremo</strong>: un IOC cargado en MISP dispara una alerta real en el SIEM tras la ejecución controlada de ransomware (<strong>Bad Rabbit</strong>).<br/>
+  Diseñé el <strong>núcleo de detección</strong>: SIEM con ELK Stack (Elasticsearch · Kibana · Logstash), Fleet Server, integración <strong>ti_misp</strong> y <strong>4 reglas KQL</strong> que detectaron el ataque.
+</p>
 
-> Repositorio completo: **[Nullsec-SIEM-ELK](https://github.com/juanmalbran/Nullsec-SIEM-ELK)**
+<p align="center">
+  <strong>MTTD 5-6 min</strong> · 484 IOCs sincronizados · 46 eventos Sysmon · detección validada de PowerShell malicioso, C2, DNS y URL maliciosas.
+</p>
+
+<p align="center">
+  <a href="https://github.com/juanmalbran/Nullsec-SIEM-ELK"><img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" /></a>
+  <a href="https://raw.githubusercontent.com/juanmalbran/Nullsec-SIEM-ELK/main/nullsec-architecture.png"><img src="https://img.shields.io/badge/Ver%20arquitectura-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Ver arquitectura" /></a>
+</p>
 
 ---
 
