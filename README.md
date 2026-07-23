@@ -106,6 +106,18 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 
 ---
 
+## Certificaciones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISC2-000091?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2" />&nbsp;<img src="https://img.shields.io/badge/Pr%C3%B3ximamente-E3B341?style=for-the-badge" alt="Próximamente" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />&nbsp;<img src="https://img.shields.io/badge/Pr%C3%B3ximamente-E3B341?style=for-the-badge" alt="Próximamente" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/BSCP%20%C2%B7%20Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="BSCP" />&nbsp;<img src="https://img.shields.io/badge/Pr%C3%B3ximamente-E3B341?style=for-the-badge" alt="Próximamente" />
+</p>
+
+---
+
 ## Portfolio por área
 
 Cada repositorio documenta un módulo con su marco teórico, un diagrama propio y el mapeo a MITRE ATT&CK / NIST.
