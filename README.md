@@ -14,7 +14,7 @@
 
 ---
 
-## Sobre mí
+## 👤 Sobre mí
 
 Profesional del sector **IT** orientado a la **ciberseguridad**, con foco en **Blue Team / SOC** y detección de amenazas. Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa.
 
@@ -24,7 +24,7 @@ Mi recorrido en IT arrancó en el mundo digital: soy **Licenciado en Diseño y A
 
 ---
 
-## Proyecto destacado
+## ⭐ Proyecto destacado
 
 <div align="center">
   <a href="https://github.com/juanmalbran/Nullsec-SIEM-ELK">
@@ -50,7 +50,7 @@ Mi recorrido en IT arrancó en el mundo digital: soy **Licenciado en Diseño y A
 
 ---
 
-## Lo que aporto
+## 🧰 Lo que aporto
 
 **Blue Team / SOC**
 Implementación de SIEM (ELK Stack), reglas de detección, threat intelligence con MISP, análisis de logs y telemetría de endpoints con Sysmon.
@@ -63,7 +63,7 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 
 ---
 
-## Stack
+## ⚙️ Stack
 
 **Blue Team / SOC**
 
@@ -96,7 +96,7 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 
 ---
 
-## Formación
+## 🎓 Formación
 
 | | |
 |---|---|
@@ -106,7 +106,7 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 
 ---
 
-## Certificaciones
+## 📚 Certificaciones
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISC2-000091?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2" />&nbsp;<img src="https://img.shields.io/badge/Pr%C3%B3ximamente-E3B341?style=for-the-badge" alt="Próximamente" />
@@ -118,7 +118,7 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 
 ---
 
-## Portfolio por área
+## 🗂️ Portfolio por área
 
 Cada repositorio documenta un módulo con su marco teórico, un diagrama propio y el mapeo a MITRE ATT&CK / NIST.
 
