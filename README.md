@@ -102,7 +102,7 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 |---|---|
 | **Bootcamp Full Stack Cybersecurity** | KeepCoding · Completado 2026 |
 | **Licenciatura en Diseño y Animación Digital** | Universidad Siglo 21 · 2022 |
-| **B2 First (FCE)** | Cambridge English |
+| **B2 First (FCE)** | University of Cambridge |
 | **Primaria y Secundaria Bilingüe** | Instituto Santa Ana · 2005–2018 |
 
 ---
