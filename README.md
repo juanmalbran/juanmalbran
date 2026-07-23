@@ -16,13 +16,11 @@
 
 ## Sobre mí
 
-Soy **Licenciado en Diseño y Animación 3D** por la Universidad Siglo 21 (2022), una carrera de grado universitaria completa, y ejercí como profesional freelance entregando proyectos para clientes de cine, animación y videojuegos, incluido trabajo para el popular juego _Temple Run_. Más allá de la disciplina en sí, mi formación de grado y esos años de trabajo real me dejaron lo que de verdad pesa al sumarse a un equipo: **responsabilidad, autonomía, proactividad y el compromiso de entregar con calidad y en tiempo**, gestionando cada proyecto de punta a punta.
-
-Cuando descubrí la ciberseguridad, me enamoré y me metí de lleno, decidido a volcar toda esa actitud en un rumbo nuevo. No fue del todo casual: ya en la carrera había elegido una electiva sobre **ciberdelitos**, la primera señal de hacia dónde miraba.
-
-Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa.
+Profesional de **ciberseguridad** con foco en **Blue Team / SOC** y detección de amenazas. Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa.
 
 Mi diferencial no es solo lo que estudié, sino **cómo lo estudié**: construí una base de conocimiento propia y estructurada (diagramas, mapeos a MITRE ATT&CK y NIST, evidencias reales de cada práctica) porque entender de verdad se demuestra pudiendo explicarlo, no solo repitiéndolo.
+
+Además soy **Licenciado en Diseño y Animación Digital** (Universidad Siglo 21) y trabajé en empresas de videojuegos y cortometrajes animados. Esa etapa me dejó lo que de verdad pesa al sumarse a un equipo: **responsabilidad, autonomía, proactividad y el compromiso de entregar con calidad y en tiempo**.
 
 ---
 
