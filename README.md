@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Profesional del sector **IT** orientado a la **ciberseguridad** —con **inglés fluido**—, con foco en **Blue Team / SOC** y detección de amenazas. Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa.
+Profesional del sector **IT** orientado a la **ciberseguridad**, con foco en **Blue Team / SOC** y detección de amenazas. Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa. Manejo el **inglés con fluidez**, algo natural en un rubro donde las herramientas y la documentación están en ese idioma.
 
 Mi diferencial no es solo lo que estudié, sino **cómo lo estudié**: construí una base de conocimiento propia y estructurada (diagramas, mapeos a MITRE ATT&CK y NIST, evidencias reales de cada práctica) porque entender de verdad se demuestra pudiendo explicarlo, no solo repitiéndolo.
 
