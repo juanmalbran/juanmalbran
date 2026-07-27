@@ -118,35 +118,23 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 
 ---
 
-## Portfolio por área
+## Portfolio — Prácticas del Bootcamp
 
-Cada repositorio documenta un módulo con su marco teórico, un diagrama propio y el mapeo a MITRE ATT&CK / NIST.
+Cada repositorio documenta un módulo del **Bootcamp Full Stack Cybersecurity (KeepCoding)** con su entregable real, su marco teórico, un diagrama propio y el mapeo a MITRE ATT&CK / NIST.
 
-**Defensa · Blue Team**
-
-| Repositorio | Foco |
+| Repositorio | Qué contiene |
 |---|---|
-| [Nullsec-SIEM-ELK](https://github.com/juanmalbran/Nullsec-SIEM-ELK) | Proyecto destacado: SIEM ELK + Threat Intel end-to-end |
-| [Blue-Team](https://github.com/juanmalbran/Blue-Team) | SOC, SIEM, reglas de detección y threat hunting |
-| [DFIR](https://github.com/juanmalbran/DFIR) | Forense digital, Volatility, respuesta a incidentes |
-| [Analisis-de-Malware](https://github.com/juanmalbran/Analisis-de-Malware) | Análisis estático y dinámico, YARA, sandbox |
-
-**Ofensiva · Red Team**
-
-| Repositorio | Foco |
-|---|---|
-| [Recopilacion-de-Informacion](https://github.com/juanmalbran/Recopilacion-de-Informacion) | OSINT, footprinting y reconocimiento |
-| [Pentesting](https://github.com/juanmalbran/Pentesting) | Metodología ofensiva, explotación y reporting |
-| [Red-Team](https://github.com/juanmalbran/Red-Team) | Simulación de adversario, C2 y post-explotación |
-
-**Fundamentos · Especialización**
-
-| Repositorio | Foco |
-|---|---|
-| [Introduccion-a-la-Ciberseguridad](https://github.com/juanmalbran/Introduccion-a-la-Ciberseguridad) | Fundamentos, OSINT, hacking web (OWASP) y pentesting ético |
-| [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado, hashing, PKI y esteganografía |
+| [Nullsec-SIEM-ELK](https://github.com/juanmalbran/Nullsec-SIEM-ELK) | **Proyecto integrador** — SIEM (ELK) + Threat Intel (MISP) detectando ransomware end-to-end |
+| [Blue-Team](https://github.com/juanmalbran/Blue-Team) | Home lab defensivo: pfSense, honeypots, SIEM Elastic, Suricata IDS y análisis de logs |
+| [DFIR](https://github.com/juanmalbran/DFIR) | Forense digital: disco, memoria (Volatility) y metadatos — CTF 27/27 |
+| [Analisis-de-Malware](https://github.com/juanmalbran/Analisis-de-Malware) | Análisis estático y dinámico, reglas YARA y sandbox CAPEv2 (caso BadRabbit) |
+| [Recopilacion-de-Informacion](https://github.com/juanmalbran/Recopilacion-de-Informacion) | OSINT y reconocimiento: footprinting, fingerprinting y análisis de vulnerabilidades |
+| [Pentesting](https://github.com/juanmalbran/Pentesting) | Metodología ofensiva: explotación de Metasploitable2 y reporting profesional |
+| [Red-Team](https://github.com/juanmalbran/Red-Team) | Simulación de adversario: C2 (Havoc), Active Directory y evasión de EDR |
+| [Introduccion-a-la-Ciberseguridad](https://github.com/juanmalbran/Introduccion-a-la-Ciberseguridad) | Fundamentos + auditoría web sobre WebGoat (OWASP Top 10) |
+| [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado simétrico/asimétrico, hashing, firmas y PKI — 15 ejercicios en Python |
 | [IA-y-Ciberseguridad](https://github.com/juanmalbran/IA-y-Ciberseguridad) | ML aplicado: modelos ensemble + ataque adversarial FGSM |
-| [DevSecOps](https://github.com/juanmalbran/DevSecOps) | Shift-left, SAST/DAST, seguridad de contenedores |
+| [DevSecOps](https://github.com/juanmalbran/DevSecOps) | Pipeline shift-left: SAST, SCA, GitOps (ArgoCD) y firma de imágenes |
 
 ---
 
