@@ -144,8 +144,9 @@ Cada repositorio documenta un módulo con su marco teórico, un diagrama propio 
 
 | Repositorio | Foco |
 |---|---|
+| [Introduccion-a-la-Ciberseguridad](https://github.com/juanmalbran/Introduccion-a-la-Ciberseguridad) | Fundamentos, OSINT, hacking web (OWASP) y pentesting ético |
 | [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado, hashing, PKI y esteganografía |
-| [IA-y-Ciberseguridad](https://github.com/juanmalbran/IA-y-Ciberseguridad) | Adversarial ML, ataque/defensa FGSM con ART, ensemble models |
+| [IA-y-Ciberseguridad](https://github.com/juanmalbran/IA-y-Ciberseguridad) | Adversarial ML, seguridad de LLM, MITRE ATLAS |
 | [DevSecOps](https://github.com/juanmalbran/DevSecOps) | Shift-left, SAST/DAST, seguridad de contenedores |
 
 ---
