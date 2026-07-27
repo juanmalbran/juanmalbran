@@ -118,7 +118,7 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 
 ---
 
-## Portfolio — Prácticas del Bootcamp
+## Prácticas Bootcamp de Ciberseguridad
 
 Cada repositorio documenta un módulo del **Bootcamp Full Stack Cybersecurity (KeepCoding)** con su entregable real, su marco teórico, un diagrama propio y el mapeo a MITRE ATT&CK / NIST.
 
