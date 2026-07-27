@@ -14,17 +14,7 @@
 
 ---
 
-## Sobre mí
-
-Profesional del sector **IT** orientado a la **ciberseguridad**, con foco en **Blue Team / SOC** y detección de amenazas. Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa. Manejo el **inglés con fluidez**, algo natural en un rubro donde las herramientas y la documentación están en ese idioma.
-
-Mi diferencial no es solo lo que estudié, sino **cómo lo estudié**: construí una base de conocimiento propia y estructurada (diagramas, mapeos a MITRE ATT&CK y NIST, evidencias reales de cada práctica) porque entender de verdad se demuestra pudiendo explicarlo, no solo repitiéndolo.
-
-Mi recorrido en IT arrancó en el mundo digital: soy **Licenciado en Diseño y Animación Digital** (Universidad Siglo 21) y trabajé en empresas de videojuegos y cortometrajes animados. Esa etapa me dejó lo que de verdad pesa al sumarse a un equipo: **responsabilidad, autonomía, proactividad y el compromiso de entregar con calidad y en tiempo**.
-
----
-
-## Proyecto destacado
+## Proyecto destacado del momento
 
 <div align="center">
   <a href="https://github.com/juanmalbran/Nullsec-SIEM-ELK">
@@ -47,6 +37,16 @@ Mi recorrido en IT arrancó en el mundo digital: soy **Licenciado en Diseño y A
   <a href="https://github.com/juanmalbran/Nullsec-SIEM-ELK"><img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" /></a>
   <a href="https://raw.githubusercontent.com/juanmalbran/Nullsec-SIEM-ELK/main/nullsec-architecture.png"><img src="https://img.shields.io/badge/Ver%20arquitectura-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Ver arquitectura" /></a>
 </p>
+
+---
+
+## Sobre mí
+
+Profesional del sector **IT** orientado a la **ciberseguridad**, con foco en **Blue Team / SOC** y detección de amenazas. Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa. Manejo el **inglés con fluidez**, algo natural en un rubro donde las herramientas y la documentación están en ese idioma.
+
+Mi diferencial no es solo lo que estudié, sino **cómo lo estudié**: construí una base de conocimiento propia y estructurada (diagramas, mapeos a MITRE ATT&CK y NIST, evidencias reales de cada práctica) porque entender de verdad se demuestra pudiendo explicarlo, no solo repitiéndolo.
+
+Mi recorrido en IT arrancó en el mundo digital: soy **Licenciado en Diseño y Animación Digital** (Universidad Siglo 21) y trabajé en empresas de videojuegos y cortometrajes animados. Esa etapa me dejó lo que de verdad pesa al sumarse a un equipo: **responsabilidad, autonomía, proactividad y el compromiso de entregar con calidad y en tiempo**.
 
 ---
 
