@@ -103,7 +103,6 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 | **Bootcamp Full Stack Cybersecurity** | KeepCoding · Completado 2026 |
 | **Licenciatura en Diseño y Animación Digital** | Universidad Siglo 21 · 2022 |
 | **B2 First Certificate (FCE)** | Cambridge University |
-| **Primaria y Secundaria Bilingüe** | Instituto Santa Ana · 2005–2018 |
 
 ---
 
@@ -146,7 +145,7 @@ Cada repositorio documenta un módulo con su marco teórico, un diagrama propio 
 |---|---|
 | [Introduccion-a-la-Ciberseguridad](https://github.com/juanmalbran/Introduccion-a-la-Ciberseguridad) | Fundamentos, OSINT, hacking web (OWASP) y pentesting ético |
 | [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado, hashing, PKI y esteganografía |
-| [IA-y-Ciberseguridad](https://github.com/juanmalbran/IA-y-Ciberseguridad) | Adversarial ML, seguridad de LLM, MITRE ATLAS |
+| [IA-y-Ciberseguridad](https://github.com/juanmalbran/IA-y-Ciberseguridad) | ML aplicado: modelos ensemble + ataque adversarial FGSM |
 | [DevSecOps](https://github.com/juanmalbran/DevSecOps) | Shift-left, SAST/DAST, seguridad de contenedores |
 
 ---
