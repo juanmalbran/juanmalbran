@@ -134,7 +134,7 @@ Cada repositorio documenta un módulo del **Bootcamp Full Stack Cybersecurity (K
 | [Introduccion-a-la-Ciberseguridad](https://github.com/juanmalbran/Introduccion-a-la-Ciberseguridad) | Fundamentos + auditoría web sobre WebGoat (OWASP Top 10) |
 | [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado simétrico/asimétrico, hashing, firmas y PKI — 15 ejercicios en Python |
 | [IA-y-Ciberseguridad](https://github.com/juanmalbran/IA-y-Ciberseguridad) | ML aplicado: modelos ensemble + ataque adversarial FGSM |
-| [DevSecOps](https://github.com/juanmalbran/DevSecOps) | Pipeline shift-left: SAST, SCA, GitOps (ArgoCD) y firma de imágenes |
+| [DevSecOps](https://github.com/juanmalbran/DevSecOps) *(conceptual)* | Pipeline shift-left: SAST, SCA, GitOps (ArgoCD) y firma de imágenes |
 
 ---
 
