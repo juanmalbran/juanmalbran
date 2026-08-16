@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:juanmalbrann@gmail.com"><img src="https://img.shields.io/badge/Disponible%20para%20Junior%20SOC%20%7C%20Blue%20Team-22c55e?style=flat-square&logoColor=white" alt="Disponible" /></a>
-  <a href="https://www.linkedin.com/in/juan-ignacio-malbr%C3%A1n-64848b245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/juan-malbran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:juanmalbrann@gmail.com"><img src="https://img.shields.io/badge/juanmalbrann@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/C%C3%B3rdoba,%20Argentina%20%C2%B7%20Remoto-64748b?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
@@ -42,7 +42,7 @@
 
 ## Sobre mí
 
-Profesional del sector **IT** orientado a la **ciberseguridad**, con foco en **Blue Team / SOC** y detección de amenazas. Acabo de completar el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa. Manejo el **inglés con fluidez**, algo natural en un rubro donde las herramientas y la documentación están en ese idioma.
+Profesional del sector **IT** orientado a la **ciberseguridad**, con foco en **Blue Team / SOC** y detección de amenazas.Completé el **Bootcamp Full Stack Cybersecurity de KeepCoding**, cubriendo el ciclo completo: del reconocimiento y la explotación ofensiva a la defensa, el análisis forense y la detección en un SOC. Mi prioridad es el **Blue Team / SOC**, con una base ofensiva que me da la foto completa del ciclo ataque-defensa. Manejo el **inglés con fluidez**, algo natural en un rubro donde las herramientas y la documentación están en ese idioma.
 
 Mi diferencial no es solo lo que estudié, sino **cómo lo estudié**: construí una base de conocimiento propia y estructurada (diagramas, mapeos a MITRE ATT&CK y NIST, evidencias reales de cada práctica) porque entender de verdad se demuestra pudiendo explicarlo, no solo repitiéndolo.
 
@@ -101,7 +101,7 @@ Pentesting (metodología, Nmap, Metasploit), Red Team (MITRE ATT&CK, C2), OSINT 
 | | |
 |---|---|
 | **Bootcamp Full Stack Cybersecurity** | KeepCoding · Completado 2026 |
-| **Licenciatura en Diseño y Animación Digital** | Universidad Siglo 21 · 2022 |
+| **Licenciatura en Diseño y Animación Digital** | Universidad Siglo 21 · 2023 |
 | **B2 First Certificate (FCE)** | Cambridge University |
 
 ---
@@ -126,10 +126,10 @@ Cada repositorio documenta un módulo del **Bootcamp Full Stack Cybersecurity (K
 |---|---|
 | [Nullsec-SIEM-ELK](https://github.com/juanmalbran/Nullsec-SIEM-ELK) | **Proyecto integrador** — SIEM (ELK) + Threat Intel (MISP) detectando ransomware end-to-end |
 | [Blue-Team](https://github.com/juanmalbran/Blue-Team) | Home lab defensivo: pfSense, honeypots, SIEM Elastic, Suricata IDS y análisis de logs |
-| [DFIR](https://github.com/juanmalbran/DFIR) | Forense digital: disco, memoria (Volatility) y metadatos — CTF 27/27 |
+| [DFIR](https://github.com/juanmalbran/DFIR) | Forense digital: disco, memoria (Volatility) y metadatos |
 | [Analisis-de-Malware](https://github.com/juanmalbran/Analisis-de-Malware) | Análisis estático y dinámico, reglas YARA y sandbox CAPEv2 (caso BadRabbit) |
 | [Recopilacion-de-Informacion](https://github.com/juanmalbran/Recopilacion-de-Informacion) | OSINT y reconocimiento: footprinting, fingerprinting y análisis de vulnerabilidades |
-| [Pentesting](https://github.com/juanmalbran/Pentesting) | Metodología ofensiva: explotación de Metasploitable2 y reporting profesional |
+| [Pentesting](https://github.com/juanmalbran/Pentesting) | Metodología ofensiva: explotación con Nmap y Metasploit y reporting profesional |
 | [Red-Team](https://github.com/juanmalbran/Red-Team) | Simulación de adversario: C2 (Havoc), Active Directory y evasión de EDR |
 | [Introduccion-a-la-Ciberseguridad](https://github.com/juanmalbran/Introduccion-a-la-Ciberseguridad) | Fundamentos + auditoría web sobre WebGoat (OWASP Top 10) |
 | [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado simétrico/asimétrico, hashing, firmas y PKI — 15 ejercicios en Python |
