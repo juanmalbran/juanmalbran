@@ -129,7 +129,7 @@ Cada repositorio documenta un módulo del **Bootcamp Full Stack Cybersecurity (K
 | [DFIR](https://github.com/juanmalbran/DFIR) | Forense digital: disco, memoria (Volatility) y metadatos |
 | [Analisis-de-Malware](https://github.com/juanmalbran/Analisis-de-Malware) | Análisis estático y dinámico, reglas YARA y sandbox CAPEv2 (caso BadRabbit) |
 | [Recopilacion-de-Informacion](https://github.com/juanmalbran/Recopilacion-de-Informacion) | OSINT y reconocimiento: footprinting, fingerprinting y análisis de vulnerabilidades |
-| [Pentesting](https://github.com/juanmalbran/Pentesting) | Metodología ofensiva: explotación con Nmap y Metasploit y reporting profesional |
+| [Pentesting](https://github.com/juanmalbran/Pentesting) | Metodología ofensiva: explotación con Nmap y Metasploit, y reporting profesional |
 | [Red-Team](https://github.com/juanmalbran/Red-Team) | Simulación de adversario: C2 (Havoc), Active Directory y evasión de EDR |
 | [Introduccion-a-la-Ciberseguridad](https://github.com/juanmalbran/Introduccion-a-la-Ciberseguridad) | Fundamentos + auditoría web sobre WebGoat (OWASP Top 10) |
 | [Criptografia](https://github.com/juanmalbran/Criptografia) | Cifrado simétrico/asimétrico, hashing, firmas y PKI — 15 ejercicios en Python |
