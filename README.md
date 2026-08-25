@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Juan Malbrán</h1>
-<h3 align="center">Ciberseguridad · Blue Team / SOC Tier 1 · Detección de Amenazas</h3>
+<h3 align="center">Analista SOC · L1 | Blue Team | SIEM (Elastic, Wazuh) · Suricata · Sigma | MITRE ATT&CK</h3>
 
 <p align="center">
   <a href="mailto:juanmalbrann@gmail.com"><img src="https://img.shields.io/badge/Disponible%20para%20Junior%20SOC%20%7C%20Blue%20Team-22c55e?style=flat-square&logoColor=white" alt="Disponible" /></a>
